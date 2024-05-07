@@ -18,7 +18,7 @@ const server = async function () {
 
     app.listen(4000);
   } catch (error) {
-    console.log("no db");
+    console.log("no db !");
   }
 };
 
